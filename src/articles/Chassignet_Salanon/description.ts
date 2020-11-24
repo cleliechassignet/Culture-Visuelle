@@ -2,7 +2,7 @@ import { ArticleDescription, Category } from '../../types/ArticleDescription'
 
 const description: ArticleDescription = {
     title: "Table de rappel : convertir les chiffres en images mentales",
-    icon: "th-list",
+    icon: "brain",
     category: Category.Memorisation,
     authors: ["Clélie CHASSIGNET", "Bastien SALANON"],
     // Don't touch the folder name
